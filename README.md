@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SenyuanLiu
 - 👀 I’m interested in Quantitative Analysis and Data Science
-- 🌱 I’m currently a senior at UC, Santa Barbara, majoring in Financial Math and Stats
 - 📫 Please reach me @ russliu415 at gmail dot com
 
 <!---
